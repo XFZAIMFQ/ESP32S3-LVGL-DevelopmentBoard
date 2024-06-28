@@ -1,8 +1,11 @@
 #  ESP32S3-LVGL-开发板
 
 **MCU**: ESP32S3
+
 **Screen IC**: R61581
+
 **Touch IC**:  NS2009
+
 **Serial Port**: CH343P
 
 **PCB Front**
